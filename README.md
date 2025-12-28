@@ -1,4 +1,4 @@
-## Hi 
+## Hey! Welcome to my little corner of GitHub 🚀 
 
 <!--
 **gouri-ctrl/gouri-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# README.me
 urrently working on learning to code by building small projects<br>Looking to collaborate on student projects and beginner-friendly open-source work<br>Looking for help with understanding coding concepts and improving skills<br>Currently learning programming, web development, and problem-solving<br>Ask me about basic coding, HTML, CSS, Python, and GitHub<br>Fun fact: I enjoy learning by trying, failing, and improving 😄
 
 
