@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 
 
 <!--
 **gouri-ctrl/gouri-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
